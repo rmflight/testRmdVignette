@@ -1,3 +1,8 @@
+<!--
+%\VignetteEngine{knitr}
+%\VignetteIndexEntry{Test R Markdown Vignette with knitr}
+-->
+
 # testing
 
 This is an extremely simple vignette. 

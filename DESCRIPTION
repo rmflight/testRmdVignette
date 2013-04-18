@@ -7,3 +7,5 @@ Author: Robert M Flight
 Maintainer: Robert M Flight <rflight79@gmail.com>
 Description: Used for testing markdown vignette behavior in R 3.0 and devtools and knitr
 License: CC-BY
+require: knitr
+VignetteBuilder: knitr
