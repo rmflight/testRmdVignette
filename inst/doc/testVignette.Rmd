@@ -1,0 +1,12 @@
+# testing
+
+This is an extremely simple vignette. 
+
+I want to know when the HTML version gets properly installed. I assume that doing 
+
+```
+require(devtools)
+build_vignettes()
+```
+
+Will generate the html version in the **ints/doc** folder, and that `build()` or `install()` will actually make it possible to see this.
